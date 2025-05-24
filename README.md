@@ -13,11 +13,8 @@
 Hey there! I’m Virat, a curious 9th grader at Conestoga Senior High School, always on the lookout for the next big thing in tech, teamwork, and adventure. Whether I’m programming robots, leading STEM clubs, hiking trails, or cooking up something new (sometimes literally), I’m all about learning, growing, and making an impact!
 
 - 📚 **Education:**  
-  Conestoga Senior High School, Berwyn, PA  
-  GPA: 3.9+ | Class of 20XX  
-  APs: Computer Science & Biology (2024-25)  
-  Math: Math Analysis BC Honors & Pre-Calculus (2024-25)  
-  PSAT: 1340 (2024)  
+  Conestoga Senior High School, Berwyn, PA Class of 20XX  
+  PSAT: 1340 (2024)
 
 - 🎓 **Certifications & Trainings:**  
   - AWS Certified Cloud Practitioner (2024)  
@@ -33,10 +30,9 @@ Hey there! I’m Virat, a curious 9th grader at Conestoga Senior High School, al
 - 🥈 **2nd Place:** HackStoga 2025 Tri-State Hackathon
 - 🥇 **1st Place:** Jane Street Estimathon @ HackStoga 2025
 - 🥇 **1st Place:** JamStoga Game Jam
-- 🥇 **#1 State:** Science Olympiad Solar Power Trail Event
+- 🥇 **#1 State:** Science Olympiad States Solar Power Trail Event
 - 🏅 **Life Scout** & National Youth Leadership Training Grad
-- 🥋 **Junior Black Belt:** Taekwondo (Gold Star)
-- 🚀 **GIEP** & Dr. Joseph S. Renzulli Gifted Academy selectee
+- 🥋 **Junior Black Belt:** Taekwondo
 
 ---
 
